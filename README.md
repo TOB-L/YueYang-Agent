@@ -1,5 +1,5 @@
 # 🏥 YueYang (悦养) - Medical-Grade Multi-Agent Health Advisory System
-
+[English](./README.en.md) | [中文简体](./README.md)
 > 🏆 **2025 阿里巴巴大模型应用顶尖赛事 · 全国决赛入围项目**
 > 👑 **杭州 AI 工坊唯一受邀路演个人项目**
 > 
