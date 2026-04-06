@@ -1,0 +1,7 @@
+.git
+.github
+.env
+.chromadb/
+__pycache__/
+*.pyc
+medical_db/
