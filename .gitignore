@@ -170,3 +170,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# === YueYang Agent Custom Ignores ===
+# 环境变量绝对不能上传
+.env
+
+# ChromaDB 本地向量数据库绝对不能上传 (太大了，且属于本地知识资产)
+.chromadb/
+chroma.sqlite3
+
+# IDE 配置文件
+.vscode/
+.idea/
